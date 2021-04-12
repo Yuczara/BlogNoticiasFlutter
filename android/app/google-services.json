@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403107227172",
+    "project_id": "blognoticias-3df04",
+    "storage_bucket": "blognoticias-3df04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403107227172:android:7adde7e70c6cc24f28dab1",
+        "android_client_info": {
+          "package_name": "com.example.blognoticias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403107227172-m96c9gbohdpc1mkkf8plcqnid2j1esmf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTzdYaJFtHQbpRU8fPchaRrnyHhwWAqSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403107227172-m96c9gbohdpc1mkkf8plcqnid2j1esmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
